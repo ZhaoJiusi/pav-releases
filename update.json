@@ -4,7 +4,7 @@
   "version": "0.4.1",
   "published_at": "2026-09-30T04:24:07Z",
   "minimum_supported_version": "0.2.0",
-  "mandatory": true,
+  "mandatory": false,
   "package": {
     "url": "https://github.com/ZhaoJiusi/pav-releases/releases/download/v0.4.1/PAV-0.4.1-windows-x64-portable.zip",
     "sha256": "11566f9c1ead1a616075f5b8d8e450cfca14098771ff317ea51cc21d9716149f",
