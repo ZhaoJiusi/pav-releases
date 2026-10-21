@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "channel": "stable",
-  "version": "0.4.3",
-  "published_at": "2026-10-21T17:07:48Z",
+  "version": "0.4.4",
+  "published_at": "2026-10-21T17:28:10Z",
   "minimum_supported_version": "0.2.0",
   "mandatory": false,
   "package": {
-    "url": "https://github.com/ZhaoJiusi/pav-releases/releases/download/v0.4.3/PAV-0.4.3-windows-x64-portable.zip",
-    "sha256": "61439e8078677758c1b830c445d62953cdc18297200b0f5ed83238a833456ff8",
-    "size": 27453662
+    "url": "https://github.com/ZhaoJiusi/pav-releases/releases/download/v0.4.4/PAV-0.4.4-windows-x64-portable.zip",
+    "sha256": "1b6bbcf26b53a186e40a167c373573d8902e25ec3b9c1bbf0ec4ac502a3bbcfc",
+    "size": 27456580
   },
-  "release_notes_url": "https://github.com/ZhaoJiusi/pav-releases/releases/tag/v0.4.3"
+  "release_notes_url": "https://github.com/ZhaoJiusi/pav-releases/releases/tag/v0.4.4"
 }
