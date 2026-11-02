@@ -4,11 +4,11 @@ PAV 个人资产版本管理器的公开发布仓库。这里仅分发程序、�
 
 ## 当前版本
 
-[下载 PAV 0.5.9](https://github.com/ZhaoJiusi/pav-releases/releases/tag/v0.5.9) · Windows 10/11 x64 便携版。
+[下载 PAV 0.5.10](https://github.com/ZhaoJiusi/pav-releases/releases/tag/v0.5.10) · Windows 10/11 x64 便携版。
 
 下载完整 ZIP，解压后运行 `PAV_Client.exe`。首次使用配置说明随包提供。
 
-本版修复差异及独立窗口排版，增加键盘辅助多选操作、Markdown 排版预览和差异定位；保留现有主界面布局，原版本发布文件保留。
+本版优化提交审核：排序、异常筛选、相对路径、双线程检查与异常重试；扩大对象包以减少小文件请求，并调整传输进度及中断图标。原版本发布文件保留。
 
 ## 更新
 
